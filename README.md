@@ -1,2 +1,2 @@
 # productivity
-For Mac OS X. Blocker certain websites to avoid time sinks
+For Mac OS X. Block certain websites to avoid time sinks
