@@ -16,3 +16,6 @@ v0.2 - proposed
     
     smarter handling of /etc/hosts file to prevent errors that could occur if another
     program makes changes to the file while blocker is running
+    
+    Use system clock to set timer. In v0.1, the timer doesn't work as desired if the
+    computer goes to sleep.
